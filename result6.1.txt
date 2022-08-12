@@ -1,0 +1,11 @@
+You may use special comments to disable some warnings.
+Use // eslint-disable-next-line to ignore the next line.
+Use /* eslint-disable */ to ignore all warnings in a file.
+  File                                 Size                                             Gzipped
+
+  dist\js\chunk-vendors.42d1eb3c.js    129.87 KiB                                       47.22 KiB
+  dist\js\app.2677f376.js              9.22 KiB                                         3.36 KiB
+  dist\css\app.a83f4033.css            2.05 KiB                                         0.82 KiB
+
+  Images and other types of assets omitted.
+  Build at: 2022-08-12T05:38:26.970Z - Hash: a3039e2795a2a7b8 - Time: 36634ms
