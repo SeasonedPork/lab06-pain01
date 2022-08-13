@@ -9,3 +9,7 @@ Use /* eslint-disable */ to ignore all warnings in a file.
 
   Images and other types of assets omitted.
   Build at: 2022-08-12T05:38:26.970Z - Hash: a3039e2795a2a7b8 - Time: 36634ms
+
+
+update after push the URL result 
+https://github.com/login/oauth/authorize?client_id=89cf50f02ac6aaed3484&state=743434383&redirect_uri=http%3A%2F%2Flocalhost%3A9005&scope=read%3Auser%20repo%20public_repo
