@@ -13,3 +13,18 @@ Use /* eslint-disable */ to ignore all warnings in a file.
 
 update after push the URL result 
 https://github.com/login/oauth/authorize?client_id=89cf50f02ac6aaed3484&state=743434383&redirect_uri=http%3A%2F%2Flocalhost%3A9005&scope=read%3Auser%20repo%20public_repo
+
+build on PC 
+@ multi ./src/main.js
+
+  File                                   Size                                               Gzipped
+
+  dist\js\chunk-vendors.bc694c8f.js      111.42 KiB                                         40.94 KiB
+  dist\js\app.35ea387b.js                8.90 KiB                                           3.14 KiB
+  dist\css\app.9807b99f.css              1.08 KiB                                           0.51 KiB
+  dist\css\chunk-vendors.902ebb66.css    0.97 KiB                                           0.41 KiB
+
+  Images and other types of assets omitted.
+
+ DONE  Build complete. The dist directory is ready to be deployed.
+ INFO  Check out deployment instructions at https://cli.vuejs.org/guide/deployment.html
