@@ -30,7 +30,7 @@ jobs:
       push: true
       tags: dto08/331-lab06:latest
    -
-  name: docker-compose
+  name: docker compose
   uses: alex-ac/github-action-ssh-docker-compose@master
   with:
    ssh_host: ${{ secrets.HOST_SERVER }}
