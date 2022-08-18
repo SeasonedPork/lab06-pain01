@@ -1,6 +1,6 @@
 version: "3.9"
 services:
     web:
-     build: "seasoned132porks/se331-lab06:latest"
+     build: "seasoned132porks/se331-lab06"
      ports:
        - 8001:80
