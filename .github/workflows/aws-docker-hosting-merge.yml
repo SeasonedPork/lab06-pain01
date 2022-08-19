@@ -30,6 +30,9 @@ jobs:
       push: true
       tags: seasoned132porks/se331-lab06:latest
    -
+    name: install some bzip2
+    uses: sudo/apt-get/install/bzip2
+   -
     name: docker compose
     uses: alex-ac/github-action-ssh-docker-compose@master
     with:
